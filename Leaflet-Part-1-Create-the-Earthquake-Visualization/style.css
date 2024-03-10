@@ -1,0 +1,43 @@
+/* Custom CSS */
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#map,
+body,
+html {
+  height: 100%;
+}
+
+#map {
+  width: 100%;
+  height: 100%;
+}
+
+.info.legend {
+  background: white;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+}
+
+.info.legend i {
+  width: 20px;
+  height: 20px;
+  margin-right: 8px;
+}
+
+/* Style for legend text */
+.info.legend span {
+  line-height: 20px; /* Adjust line-height to match the height of the legend item */
+}
+
+/* Clearfix for legend */
+.info.legend:after {
+  content: "";
+  display: table;
+  clear: both;
+}
