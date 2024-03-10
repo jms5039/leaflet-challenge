@@ -1,5 +1,10 @@
 # USGS Earthquake Visualization
 
+## Deployment Links
+
+[Link to Earthquake Visualization](https://jms5039.github.io/leaflet-challenge/Leaflet-Part-1-Create-the-Earthquake-Visualization/)
+[Link to Gather and Plot More Data](https://jms5039.github.io/leaflet-challenge/Leaflet-Part-2-Gather-and-Plot-More-Data/)
+
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) ![USGS](https://img.shields.io/badge/USGS-Data%20Provider-green.svg)
 
 ## Background
